@@ -1,5 +1,5 @@
 # Integrated-Cyber-Threat-Intelligence-Reports
-This repository contains the five reports that were created for a scenario in which a company is attacked by Malware. This assignment the part of the Bytewise Fellowship in Cybersecurity.
+This repository contains the five reports that were created on a scenario in which a company is attacked by a Malware. This assignment the part of the Bytewise Fellowship in Cybersecurity.
 
 
 ## Scenario:
